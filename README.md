@@ -8,18 +8,18 @@
 
 ### Dealing with CSV files
 
-https://pypi.org/project/clevercsv/
-https://messytables.readthedocs.io/en/latest/
-https://arxiv.org/pdf/1811.11242.pdf
+    https://pypi.org/project/clevercsv/
+    https://messytables.readthedocs.io/en/latest/
+    https://arxiv.org/pdf/1811.11242.pdf
 
 ### Command Line Parameters
 
-https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
+    https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
 
 ## Starting a new project
 
-create a git repository (https://try.github.io/)
-add a gitignore file (https://gitignore.io)
+    create a git repository (https://try.github.io/)
+    add a gitignore file (https://gitignore.io)
 
 ## Setting up a python environment
 
